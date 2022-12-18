@@ -1,1 +1,3 @@
 This file is to track documentation of this smaller scale streamlit project
+Step 1:
+Download the requirements.txt file as -> "pip install -r requirements.txt"
